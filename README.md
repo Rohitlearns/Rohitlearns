@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rohit Mahajan
+# Hi 👋, I'm Rohit
 
 A passionate developer who enjoys building software and learning new technologies.
 
